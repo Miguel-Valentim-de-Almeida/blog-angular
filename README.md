@@ -10,7 +10,7 @@
 <ul>
   <li>npm install -g @angular/cli@14.1.2</li>
 </ul>
-<p>Depois, instale as dependências utilizando essa comando:</p>
+<p>Depois, instale as dependências utilizando esse comando:</p>
 <ul>
   <li>npm install</li>
 </ul>
